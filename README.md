@@ -60,6 +60,4 @@ The preprocessing pipeline improved data quality and reduced the impact of missi
 
 Data cleaning and normalization are essential preprocessing steps that improve data quality and model performance. The project demonstrates the implementation and comparison of Min-Max Scaling and Standardization using Python.
 
-## Author
 
-Irene Bae
